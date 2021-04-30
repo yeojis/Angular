@@ -1,0 +1,22 @@
+[
+    {
+        "productId" : 1,
+        "productName" : "어쩌고",
+        "productCode" : "test-01",
+        "releaseDate" : "March 18, 2021",
+        "description" : "웅앵웅",
+        "price" : 1000,
+        "starRating" : 4.1,
+        "imageUrl" : "assets/images/test-01.jpg"
+    },
+    {
+        "productId" : 2,
+        "productName" : "저쩌고",
+        "productCode" : "test-02",
+        "releaseDate" : "March 18, 2021",
+        "description" : "웅앵웅",
+        "price" : 4000,
+        "starRating" : 0.9,
+        "imageUrl" : "assets/images/test-02.jpg"
+    }
+]
